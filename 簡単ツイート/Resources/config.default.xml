@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+    <API>
+        <Key>null</Key>
+        <Secret>null</Secret>
+    </API>
+    <Access>
+        <Token>null</Token>
+        <Secret>null</Secret>
+    </Access>
+</config>
